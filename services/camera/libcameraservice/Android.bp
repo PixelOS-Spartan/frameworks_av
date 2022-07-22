@@ -127,6 +127,7 @@ cc_library {
         "camera_needs_client_info_lib_oplus_defaults",
         "includes_miui_camera",
         "uses_miui_camera_defaults",
+        "uses_oplus_camera_defaults",
     ],
     // Camera service source
 
